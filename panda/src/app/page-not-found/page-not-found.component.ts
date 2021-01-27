@@ -4,7 +4,7 @@ import { Component, OnInit } from '@angular/core';
   selector: 'app-page-not-found',
   template: `
     <p>
-      page-not-found works!
+      No transactions yet
     </p>
   `,
   styles: [
@@ -18,3 +18,4 @@ export class PageNotFoundComponent implements OnInit {
   }
 
 }
+
